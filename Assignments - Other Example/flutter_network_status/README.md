@@ -1,0 +1,1 @@
+https://pub.dev/packages/connectivity_plus/install
