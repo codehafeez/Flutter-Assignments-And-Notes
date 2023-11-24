@@ -1,0 +1,6 @@
+package com.codehafeez.shuftipro_kyc
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
